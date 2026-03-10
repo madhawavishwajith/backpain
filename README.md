@@ -3,7 +3,7 @@
 A professional, fully functional, mobile-responsive website for back pain information, treatment options, and recovery solutions. Features an interactive 3D spine model.
 
 ## 🌐 Live Demo
-👉 [https://madhawavishwajith.github.io/backpain-website](https://madhawavishwajith.github.io/backpain-website)
+👉 [https://madhawavishwajith.github.io/backpain](https://madhawavishwajith.github.io/backpain)
 
 ## ✨ Features
 
